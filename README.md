@@ -94,11 +94,11 @@ bptree <index_file>
 
 ### 1. Bulk Load and Stats
 
-![Bulk Load Screenshot](screenshots\bulkload.png)
+![Bulk Load Screenshot](screenshots/bulkload.png)
 
 ### 2. Insert and Query
 
-![Insert Screenshot](screenshots\insert2.jpg)
+![Insert Screenshot](screenshots/insert.jpg)
 
 ![Insert Screenshot](screenshots/insert2.jpg)
 
